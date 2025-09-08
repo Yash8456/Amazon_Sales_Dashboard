@@ -46,4 +46,4 @@ Translate raw data into clear, actionable business insights
 📌 Developed during my internship with Innobyte Services, this project reflects my strong foundation in business intelligence, analytics, and data visualization.
 
 DEMO of the project:
-Dashboard Preview: ()
+Dashboard Preview: (https://github.com/Yash8456/Amazon_Sales_Dashboard/blob/main/Amazon%20Dashboard.png)
