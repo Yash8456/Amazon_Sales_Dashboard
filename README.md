@@ -44,3 +44,6 @@ Design interactive, business-ready dashboards in Power BI
 Translate raw data into clear, actionable business insights
 
 📌 Developed during my internship with Innobyte Services, this project reflects my strong foundation in business intelligence, analytics, and data visualization.
+
+DEMO of the project:
+Dashboard Preview: ()
